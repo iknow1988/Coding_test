@@ -1,0 +1,1594 @@
+category,product_name,product_hier_1,product_hier_2,product_hier_3,product_hier_4,year,period_type,period,units,value
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2019,month,6,bbl,
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2019,month,6,bbl,
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2019,month,6,bbl,
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2019,month,6,bbl,12.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2019,month,6,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2019,month,6,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,6,bbl,-0.6
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,6,bbl,0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2019,month,6,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2019,month,6,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2019,month,6,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2019,month,6,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,6,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,6,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2019,month,6,bbl,-0.15
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2019,month,6,bbl,-0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2019,month,6,bbl,0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2019,month,6,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2019,month,6,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2019,month,6,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2019,month,6,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2019,month,6,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2019,month,6,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2019,month,6,bbl,-2.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,6,bbl,-2.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,6,bbl,-2.3000000000000003
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2019,month,6,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2019,month,6,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2019,month,6,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2019,month,6,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,6,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,6,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2019,month,6,bbl,0.8
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2019,month,6,bbl,1.2
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2019,month,6,bbl,1.7
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2019,month,6,bbl,-0.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2019,month,6,bbl,0.6
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2019,month,6,bbl,0.6
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2019,month,6,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2019,month,6,bbl,1.7
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2019,month,6,bbl,2.2
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2019,month,6,bbl,1.45
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2019,month,6,bbl,2.2
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2019,month,6,bbl,2.7
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2019,month,6,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2019,month,6,bbl,2.75
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2019,month,6,bbl,3.25
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2019,month,6,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2019,month,6,bbl,3.5
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2019,month,6,bbl,3.9
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2019,month,6,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2019,month,6,bbl,7.5
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2019,month,6,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2019,month,6,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2019,month,6,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2019,month,6,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2019,month,6,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2019,month,6,bbl,8.5
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2019,month,6,bbl,9.0
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2019,month,7,bbl,
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2019,month,7,bbl,
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2019,month,7,bbl,
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2019,month,7,bbl,10.5
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2019,month,7,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2019,month,7,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,7,bbl,-0.55
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,7,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2019,month,7,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2019,month,7,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2019,month,7,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2019,month,7,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,7,bbl,-0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,7,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2019,month,7,bbl,-0.15
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2019,month,7,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2019,month,7,bbl,0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2019,month,7,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2019,month,7,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2019,month,7,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2019,month,7,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2019,month,7,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2019,month,7,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2019,month,7,bbl,-2.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,7,bbl,-2.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,7,bbl,-2.3000000000000003
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2019,month,7,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2019,month,7,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2019,month,7,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2019,month,7,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,7,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,7,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2019,month,7,bbl,0.8
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2019,month,7,bbl,0.7
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2019,month,7,bbl,1.3
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2019,month,7,bbl,-0.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2019,month,7,bbl,0.4
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2019,month,7,bbl,0.5
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2019,month,7,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2019,month,7,bbl,1.5
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2019,month,7,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2019,month,7,bbl,1.45
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2019,month,7,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2019,month,7,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2019,month,7,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2019,month,7,bbl,2.25
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2019,month,7,bbl,2.75
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2019,month,7,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2019,month,7,bbl,3.2
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2019,month,7,bbl,3.6
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2019,month,7,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2019,month,7,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2019,month,7,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2019,month,7,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2019,month,7,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2019,month,7,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2019,month,7,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2019,month,7,bbl,8.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2019,month,7,bbl,8.5
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2019,month,8,bbl,4.0
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2019,month,8,bbl,3.5
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2019,month,8,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2019,month,8,bbl,10.5
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2019,month,8,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2019,month,8,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,8,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,8,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2019,month,8,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2019,month,8,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2019,month,8,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2019,month,8,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,8,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,8,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2019,month,8,bbl,-0.15
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2019,month,8,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2019,month,8,bbl,0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2019,month,8,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2019,month,8,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2019,month,8,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2019,month,8,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2019,month,8,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2019,month,8,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2019,month,8,bbl,-2.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,8,bbl,-2.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,8,bbl,-2.3000000000000003
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2019,month,8,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2019,month,8,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2019,month,8,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2019,month,8,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,8,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,8,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2019,month,8,bbl,0.8
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2019,month,8,bbl,0.5
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2019,month,8,bbl,1.2
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2019,month,8,bbl,-0.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2019,month,8,bbl,0.2
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2019,month,8,bbl,0.3
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2019,month,8,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2019,month,8,bbl,1.3
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2019,month,8,bbl,1.8
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2019,month,8,bbl,1.45
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2019,month,8,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2019,month,8,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2019,month,8,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2019,month,8,bbl,2.0
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2019,month,8,bbl,2.5
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2019,month,8,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2019,month,8,bbl,3.0
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2019,month,8,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2019,month,8,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2019,month,8,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2019,month,8,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2019,month,8,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2019,month,8,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2019,month,8,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2019,month,8,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2019,month,8,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2019,month,8,bbl,7.75
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2019,month,9,bbl,5.1
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2019,month,9,bbl,3.5
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2019,month,9,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2019,month,9,bbl,10.5
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2019,month,9,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2019,month,9,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,9,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,9,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2019,month,9,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2019,month,9,bbl,-0.3
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2019,month,9,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2019,month,9,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,9,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,9,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2019,month,9,bbl,-0.15
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2019,month,9,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2019,month,9,bbl,0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2019,month,9,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2019,month,9,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2019,month,9,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2019,month,9,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2019,month,9,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2019,month,9,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2019,month,9,bbl,-2.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,9,bbl,-2.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,9,bbl,-2.3000000000000003
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2019,month,9,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2019,month,9,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2019,month,9,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2019,month,9,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,9,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,9,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2019,month,9,bbl,0.8
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2019,month,9,bbl,0.3
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2019,month,9,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2019,month,9,bbl,-0.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2019,month,9,bbl,-0.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2019,month,9,bbl,0.3
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2019,month,9,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2019,month,9,bbl,1.2
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2019,month,9,bbl,1.7
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2019,month,9,bbl,1.45
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2019,month,9,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2019,month,9,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2019,month,9,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2019,month,9,bbl,1.75
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2019,month,9,bbl,2.25
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2019,month,9,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2019,month,9,bbl,3.0
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2019,month,9,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2019,month,9,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2019,month,9,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2019,month,9,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2019,month,9,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2019,month,9,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2019,month,9,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2019,month,9,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2019,month,9,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2019,month,9,bbl,7.75
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2019,month,10,bbl,5.2
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2019,month,10,bbl,3.5
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2019,month,10,bbl,0.75
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2019,month,10,bbl,12.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2019,month,10,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2019,month,10,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,10,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,10,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2019,month,10,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2019,month,10,bbl,-0.3
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2019,month,10,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2019,month,10,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,10,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,10,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2019,month,10,bbl,-0.15
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2019,month,10,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2019,month,10,bbl,0.3
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2019,month,10,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2019,month,10,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2019,month,10,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2019,month,10,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2019,month,10,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2019,month,10,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2019,month,10,bbl,-2.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,10,bbl,-2.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,10,bbl,-2.3000000000000003
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2019,month,10,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2019,month,10,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2019,month,10,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2019,month,10,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,10,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,10,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2019,month,10,bbl,0.8
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2019,month,10,bbl,0.3
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2019,month,10,bbl,1.0
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2019,month,10,bbl,-0.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2019,month,10,bbl,-0.25
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2019,month,10,bbl,0.25
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2019,month,10,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2019,month,10,bbl,1.3
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2019,month,10,bbl,1.8
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2019,month,10,bbl,1.45
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2019,month,10,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2019,month,10,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2019,month,10,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2019,month,10,bbl,1.5
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2019,month,10,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2019,month,10,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2019,month,10,bbl,3.0
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2019,month,10,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2019,month,10,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2019,month,10,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2019,month,10,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2019,month,10,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2019,month,10,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2019,month,10,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2019,month,10,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2019,month,10,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2019,month,10,bbl,7.75
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2019,month,11,bbl,5.3
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2019,month,11,bbl,3.5
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2019,month,11,bbl,0.75
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2019,month,11,bbl,12.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2019,month,11,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2019,month,11,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,11,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,11,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2019,month,11,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2019,month,11,bbl,-0.3
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2019,month,11,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2019,month,11,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,11,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,11,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2019,month,11,bbl,-0.15
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2019,month,11,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2019,month,11,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2019,month,11,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2019,month,11,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2019,month,11,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2019,month,11,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2019,month,11,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2019,month,11,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2019,month,11,bbl,-2.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,11,bbl,-2.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,11,bbl,-2.3000000000000003
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2019,month,11,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2019,month,11,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2019,month,11,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2019,month,11,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,11,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,11,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2019,month,11,bbl,0.8
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2019,month,11,bbl,0.2
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2019,month,11,bbl,1.0
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2019,month,11,bbl,-0.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2019,month,11,bbl,-0.25
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2019,month,11,bbl,0.25
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2019,month,11,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2019,month,11,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2019,month,11,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2019,month,11,bbl,1.45
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2019,month,11,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2019,month,11,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2019,month,11,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2019,month,11,bbl,1.5
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2019,month,11,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2019,month,11,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2019,month,11,bbl,3.0
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2019,month,11,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2019,month,11,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2019,month,11,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2019,month,11,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2019,month,11,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2019,month,11,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2019,month,11,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2019,month,11,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2019,month,11,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2019,month,11,bbl,7.75
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2019,month,12,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2019,month,12,bbl,3.5
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2019,month,12,bbl,-0.1
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2019,month,12,bbl,12.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2019,month,12,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2019,month,12,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,12,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,12,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2019,month,12,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2019,month,12,bbl,-0.3
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2019,month,12,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2019,month,12,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,12,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,12,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2019,month,12,bbl,-0.15
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2019,month,12,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2019,month,12,bbl,0.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2019,month,12,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2019,month,12,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2019,month,12,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2019,month,12,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2019,month,12,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2019,month,12,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2019,month,12,bbl,-2.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2019,month,12,bbl,-2.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2019,month,12,bbl,-2.3000000000000003
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2019,month,12,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2019,month,12,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2019,month,12,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2019,month,12,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2019,month,12,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2019,month,12,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2019,month,12,bbl,0.8
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2019,month,12,bbl,0.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2019,month,12,bbl,1.0
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2019,month,12,bbl,-0.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2019,month,12,bbl,-0.25
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2019,month,12,bbl,0.25
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2019,month,12,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2019,month,12,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2019,month,12,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2019,month,12,bbl,1.45
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2019,month,12,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2019,month,12,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2019,month,12,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2019,month,12,bbl,1.5
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2019,month,12,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2019,month,12,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2019,month,12,bbl,3.0
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2019,month,12,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2019,month,12,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2019,month,12,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2019,month,12,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2019,month,12,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2019,month,12,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2019,month,12,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2019,month,12,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2019,month,12,bbl,7.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2019,month,12,bbl,7.75
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,1,bbl,5.8
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,1,bbl,3.0
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,1,bbl,0.8
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,1,bbl,15.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,1,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,1,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,1,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,1,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,1,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,1,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,1,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,1,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,1,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,1,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,1,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,1,bbl,0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,1,bbl,0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,1,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,1,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,1,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,1,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,1,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,1,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,1,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,1,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,1,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,1,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,1,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,1,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,1,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,1,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,1,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,1,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,1,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,1,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,1,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,1,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,1,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,1,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,1,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,1,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,1,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,1,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,1,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,1,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,1,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,1,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,1,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,1,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,1,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,2,bbl,5.8
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,2,bbl,3.0
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,2,bbl,0.8
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,2,bbl,15.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,2,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,2,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,2,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,2,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,2,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,2,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,2,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,2,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,2,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,2,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,2,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,2,bbl,0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,2,bbl,0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,2,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,2,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,2,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,2,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,2,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,2,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,2,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,2,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,2,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,2,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,2,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,2,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,2,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,2,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,2,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,2,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,2,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,2,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,2,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,2,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,2,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,2,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,2,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,2,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,2,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,2,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,2,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,2,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,2,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,2,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,2,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,2,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,2,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,3,bbl,5.8
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,3,bbl,3.0
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,3,bbl,0.8
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,3,bbl,15.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,3,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,3,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,3,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,3,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,3,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,3,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,3,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,3,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,3,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,3,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,3,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,3,bbl,0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,3,bbl,0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,3,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,3,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,3,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,3,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,3,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,3,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,3,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,3,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,3,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,3,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,3,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,3,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,3,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,3,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,3,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,3,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,3,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,3,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,3,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,3,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,3,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,3,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,3,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,3,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,3,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,3,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,3,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,3,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,3,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,3,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,3,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,3,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,3,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,4,bbl,5.8
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,4,bbl,3.0
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,4,bbl,0.8
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,4,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,4,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,4,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,4,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,4,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,4,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,4,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,4,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,4,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,4,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,4,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,4,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,4,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,4,bbl,0.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,4,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,4,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,4,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,4,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,4,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,4,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,4,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,4,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,4,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,4,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,4,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,4,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,4,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,4,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,4,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,4,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,4,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,4,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,4,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,4,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,4,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,4,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,4,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,4,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,4,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,4,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,4,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,4,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,4,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,4,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,4,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,4,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,4,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,5,bbl,5.8
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,5,bbl,3.0
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,5,bbl,0.8
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,5,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,5,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,5,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,5,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,5,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,5,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,5,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,5,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,5,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,5,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,5,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,5,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,5,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,5,bbl,0.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,5,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,5,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,5,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,5,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,5,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,5,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,5,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,5,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,5,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,5,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,5,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,5,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,5,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,5,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,5,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,5,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,5,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,5,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,5,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,5,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,5,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,5,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,5,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,5,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,5,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,5,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,5,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,5,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,5,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,5,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,5,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,5,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,5,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,5,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,5,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,5,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,5,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,5,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,5,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,5,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,5,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,5,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,6,bbl,5.8
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,6,bbl,3.0
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,6,bbl,0.8
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,6,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,6,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,6,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,6,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,6,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,6,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,6,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,6,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,6,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,6,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,6,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,6,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,6,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,6,bbl,0.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,6,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,6,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,6,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,6,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,6,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,6,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,6,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,6,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,6,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,6,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,6,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,6,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,6,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,6,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,6,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,6,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,6,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,6,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,6,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,6,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,6,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,6,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,6,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,6,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,6,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,6,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,6,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,6,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,6,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,6,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,6,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,6,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,6,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,6,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,6,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,6,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,6,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,6,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,6,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,6,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,6,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,6,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,7,bbl,5.8
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,7,bbl,3.0
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,7,bbl,0.8
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,7,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,7,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,7,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,7,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,7,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,7,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,7,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,7,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,7,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,7,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,7,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,7,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,7,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,7,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,7,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,7,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,7,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,7,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,7,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,7,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,7,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,7,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,7,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,7,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,7,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,7,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,7,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,7,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,7,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,7,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,7,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,7,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,7,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,7,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,7,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,7,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,7,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,7,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,7,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,7,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,7,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,7,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,7,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,7,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,7,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,7,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,7,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,7,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,7,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,7,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,7,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,7,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,7,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,7,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,7,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,7,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,8,bbl,5.8
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,8,bbl,3.0
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,8,bbl,0.8
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,8,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,8,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,8,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,8,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,8,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,8,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,8,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,8,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,8,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,8,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,8,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,8,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,8,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,8,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,8,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,8,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,8,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,8,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,8,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,8,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,8,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,8,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,8,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,8,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,8,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,8,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,8,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,8,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,8,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,8,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,8,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,8,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,8,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,8,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,8,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,8,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,8,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,8,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,8,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,8,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,8,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,8,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,8,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,8,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,8,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,8,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,8,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,8,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,8,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,8,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,8,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,8,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,8,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,8,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,8,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,8,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,9,bbl,5.8
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,9,bbl,3.0
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,9,bbl,0.8
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,9,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,9,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,9,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,9,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,9,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,9,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,9,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,9,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,9,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,9,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,9,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,9,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,9,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,9,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,9,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,9,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,9,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,9,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,9,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,9,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,9,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,9,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,9,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,9,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,9,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,9,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,9,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,9,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,9,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,9,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,9,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,9,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,9,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,9,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,9,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,9,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,9,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,9,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,9,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,9,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,9,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,9,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,9,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,9,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,9,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,9,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,9,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,9,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,9,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,9,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,9,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,9,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,9,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,9,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,9,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,9,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,10,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,10,bbl,2.7
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,10,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,10,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,10,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,10,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,10,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,10,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,10,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,10,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,10,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,10,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,10,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,10,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,10,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,10,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,10,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,10,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,10,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,10,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,10,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,10,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,10,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,10,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,10,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,10,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,10,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,10,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,10,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,10,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,10,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,10,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,10,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,10,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,10,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,10,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,10,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,10,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,10,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,10,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,10,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,10,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,10,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,10,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,10,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,10,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,10,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,10,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,10,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,10,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,10,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,10,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,10,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,10,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,10,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,10,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,10,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,10,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,10,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,11,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,11,bbl,2.7
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,11,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,11,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,11,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,11,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,11,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,11,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,11,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,11,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,11,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,11,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,11,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,11,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,11,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,11,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,11,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,11,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,11,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,11,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,11,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,11,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,11,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,11,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,11,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,11,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,11,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,11,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,11,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,11,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,11,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,11,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,11,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,11,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,11,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,11,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,11,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,11,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,11,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,11,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,11,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,11,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,11,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,11,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,11,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,11,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,11,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,11,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,11,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,11,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,11,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,11,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,11,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,11,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,11,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,11,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,11,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,11,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,11,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2020,month,12,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2020,month,12,bbl,2.7
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2020,month,12,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2020,month,12,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2020,month,12,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2020,month,12,bbl,0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,12,bbl,0.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,12,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2020,month,12,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2020,month,12,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2020,month,12,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2020,month,12,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,12,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,12,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2020,month,12,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2020,month,12,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2020,month,12,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2020,month,12,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2020,month,12,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2020,month,12,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2020,month,12,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2020,month,12,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2020,month,12,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2020,month,12,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2020,month,12,bbl,-1.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2020,month,12,bbl,-1.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2020,month,12,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2020,month,12,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2020,month,12,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2020,month,12,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2020,month,12,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2020,month,12,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2020,month,12,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2020,month,12,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2020,month,12,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2020,month,12,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2020,month,12,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2020,month,12,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2020,month,12,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2020,month,12,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2020,month,12,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2020,month,12,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2020,month,12,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2020,month,12,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2020,month,12,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2020,month,12,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2020,month,12,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2020,month,12,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2020,month,12,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2020,month,12,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2020,month,12,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2020,month,12,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2020,month,12,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2020,month,12,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2020,month,12,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2020,month,12,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2020,month,12,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2020,month,12,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2020,month,12,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2021,quarter,1,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2021,quarter,1,bbl,2.7
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2021,quarter,1,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2021,quarter,1,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2021,quarter,1,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2021,quarter,1,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2021,quarter,1,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2021,quarter,1,bbl,-0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2021,quarter,1,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2021,quarter,1,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2021,quarter,1,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2021,quarter,1,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2021,quarter,1,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2021,quarter,1,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2021,quarter,1,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2021,quarter,1,bbl,0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2021,quarter,1,bbl,0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2021,quarter,1,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2021,quarter,1,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2021,quarter,1,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2021,quarter,1,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2021,quarter,1,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2021,quarter,1,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2021,quarter,1,bbl,-2.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2021,quarter,1,bbl,-2.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2021,quarter,1,bbl,-1.6
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2021,quarter,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2021,quarter,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2021,quarter,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2021,quarter,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2021,quarter,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2021,quarter,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2021,quarter,1,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2021,quarter,1,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2021,quarter,1,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2021,quarter,1,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2021,quarter,1,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2021,quarter,1,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2021,quarter,1,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2021,quarter,1,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2021,quarter,1,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2021,quarter,1,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2021,quarter,1,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2021,quarter,1,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2021,quarter,1,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2021,quarter,1,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2021,quarter,1,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2021,quarter,1,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2021,quarter,1,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2021,quarter,1,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2021,quarter,1,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2021,quarter,1,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2021,quarter,1,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2021,quarter,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2021,quarter,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2021,quarter,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2021,quarter,1,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2021,quarter,1,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2021,quarter,1,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2021,quarter,2,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2021,quarter,2,bbl,2.7
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2021,quarter,2,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2021,quarter,2,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2021,quarter,2,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2021,quarter,2,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2021,quarter,2,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2021,quarter,2,bbl,-0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2021,quarter,2,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2021,quarter,2,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2021,quarter,2,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2021,quarter,2,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2021,quarter,2,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2021,quarter,2,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2021,quarter,2,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2021,quarter,2,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2021,quarter,2,bbl,0.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2021,quarter,2,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2021,quarter,2,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2021,quarter,2,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2021,quarter,2,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2021,quarter,2,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2021,quarter,2,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2021,quarter,2,bbl,-2.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2021,quarter,2,bbl,-2.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2021,quarter,2,bbl,-1.6
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2021,quarter,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2021,quarter,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2021,quarter,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2021,quarter,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2021,quarter,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2021,quarter,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2021,quarter,2,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2021,quarter,2,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2021,quarter,2,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2021,quarter,2,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2021,quarter,2,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2021,quarter,2,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2021,quarter,2,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2021,quarter,2,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2021,quarter,2,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2021,quarter,2,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2021,quarter,2,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2021,quarter,2,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2021,quarter,2,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2021,quarter,2,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2021,quarter,2,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2021,quarter,2,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2021,quarter,2,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2021,quarter,2,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2021,quarter,2,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2021,quarter,2,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2021,quarter,2,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2021,quarter,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2021,quarter,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2021,quarter,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2021,quarter,2,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2021,quarter,2,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2021,quarter,2,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2021,quarter,3,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2021,quarter,3,bbl,2.7
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2021,quarter,3,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2021,quarter,3,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2021,quarter,3,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2021,quarter,3,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2021,quarter,3,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2021,quarter,3,bbl,-0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2021,quarter,3,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2021,quarter,3,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2021,quarter,3,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2021,quarter,3,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2021,quarter,3,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2021,quarter,3,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2021,quarter,3,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2021,quarter,3,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2021,quarter,3,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2021,quarter,3,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2021,quarter,3,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2021,quarter,3,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2021,quarter,3,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2021,quarter,3,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2021,quarter,3,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2021,quarter,3,bbl,-2.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2021,quarter,3,bbl,-2.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2021,quarter,3,bbl,-1.6
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2021,quarter,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2021,quarter,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2021,quarter,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2021,quarter,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2021,quarter,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2021,quarter,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2021,quarter,3,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2021,quarter,3,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2021,quarter,3,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2021,quarter,3,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2021,quarter,3,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2021,quarter,3,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2021,quarter,3,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2021,quarter,3,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2021,quarter,3,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2021,quarter,3,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2021,quarter,3,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2021,quarter,3,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2021,quarter,3,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2021,quarter,3,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2021,quarter,3,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2021,quarter,3,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2021,quarter,3,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2021,quarter,3,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2021,quarter,3,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2021,quarter,3,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2021,quarter,3,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2021,quarter,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2021,quarter,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2021,quarter,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2021,quarter,3,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2021,quarter,3,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2021,quarter,3,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2021,quarter,4,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2021,quarter,4,bbl,2.7
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2021,quarter,4,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2021,quarter,4,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2021,quarter,4,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2021,quarter,4,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2021,quarter,4,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2021,quarter,4,bbl,-0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2021,quarter,4,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2021,quarter,4,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2021,quarter,4,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2021,quarter,4,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2021,quarter,4,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2021,quarter,4,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2021,quarter,4,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2021,quarter,4,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2021,quarter,4,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2021,quarter,4,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2021,quarter,4,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2021,quarter,4,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2021,quarter,4,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2021,quarter,4,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2021,quarter,4,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2021,quarter,4,bbl,-2.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2021,quarter,4,bbl,-2.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2021,quarter,4,bbl,-1.6
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2021,quarter,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2021,quarter,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2021,quarter,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2021,quarter,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2021,quarter,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2021,quarter,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2021,quarter,4,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2021,quarter,4,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2021,quarter,4,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2021,quarter,4,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2021,quarter,4,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2021,quarter,4,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2021,quarter,4,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2021,quarter,4,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2021,quarter,4,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2021,quarter,4,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2021,quarter,4,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2021,quarter,4,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2021,quarter,4,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2021,quarter,4,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2021,quarter,4,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2021,quarter,4,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2021,quarter,4,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2021,quarter,4,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2021,quarter,4,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2021,quarter,4,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2021,quarter,4,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2021,quarter,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2021,quarter,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2021,quarter,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2021,quarter,4,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2021,quarter,4,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2021,quarter,4,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2022,quarter,1,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2022,quarter,1,bbl,2.7
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2022,quarter,1,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2022,quarter,1,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2022,quarter,1,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2022,quarter,1,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2022,quarter,1,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2022,quarter,1,bbl,-0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2022,quarter,1,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2022,quarter,1,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2022,quarter,1,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2022,quarter,1,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2022,quarter,1,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2022,quarter,1,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2022,quarter,1,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2022,quarter,1,bbl,0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2022,quarter,1,bbl,0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2022,quarter,1,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2022,quarter,1,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2022,quarter,1,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2022,quarter,1,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2022,quarter,1,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2022,quarter,1,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2022,quarter,1,bbl,-2.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2022,quarter,1,bbl,-2.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2022,quarter,1,bbl,-2.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2022,quarter,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2022,quarter,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2022,quarter,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2022,quarter,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2022,quarter,1,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2022,quarter,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2022,quarter,1,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2022,quarter,1,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2022,quarter,1,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2022,quarter,1,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2022,quarter,1,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2022,quarter,1,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2022,quarter,1,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2022,quarter,1,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2022,quarter,1,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2022,quarter,1,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2022,quarter,1,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2022,quarter,1,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2022,quarter,1,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2022,quarter,1,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2022,quarter,1,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2022,quarter,1,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2022,quarter,1,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2022,quarter,1,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2022,quarter,1,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2022,quarter,1,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2022,quarter,1,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2022,quarter,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2022,quarter,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2022,quarter,1,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2022,quarter,1,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2022,quarter,1,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2022,quarter,1,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2022,quarter,2,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2022,quarter,2,bbl,2.7
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2022,quarter,2,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2022,quarter,2,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2022,quarter,2,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2022,quarter,2,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2022,quarter,2,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2022,quarter,2,bbl,-0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2022,quarter,2,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2022,quarter,2,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2022,quarter,2,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2022,quarter,2,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2022,quarter,2,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2022,quarter,2,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2022,quarter,2,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2022,quarter,2,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2022,quarter,2,bbl,0.7
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2022,quarter,2,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2022,quarter,2,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2022,quarter,2,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2022,quarter,2,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2022,quarter,2,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2022,quarter,2,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2022,quarter,2,bbl,-2.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2022,quarter,2,bbl,-2.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2022,quarter,2,bbl,-2.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2022,quarter,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2022,quarter,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2022,quarter,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2022,quarter,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2022,quarter,2,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2022,quarter,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2022,quarter,2,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2022,quarter,2,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2022,quarter,2,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2022,quarter,2,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2022,quarter,2,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2022,quarter,2,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2022,quarter,2,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2022,quarter,2,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2022,quarter,2,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2022,quarter,2,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2022,quarter,2,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2022,quarter,2,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2022,quarter,2,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2022,quarter,2,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2022,quarter,2,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2022,quarter,2,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2022,quarter,2,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2022,quarter,2,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2022,quarter,2,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2022,quarter,2,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2022,quarter,2,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2022,quarter,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2022,quarter,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2022,quarter,2,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2022,quarter,2,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2022,quarter,2,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2022,quarter,2,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2022,quarter,3,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2022,quarter,3,bbl,2.7
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2022,quarter,3,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2022,quarter,3,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2022,quarter,3,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2022,quarter,3,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2022,quarter,3,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2022,quarter,3,bbl,-0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2022,quarter,3,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2022,quarter,3,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2022,quarter,3,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2022,quarter,3,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2022,quarter,3,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2022,quarter,3,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2022,quarter,3,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2022,quarter,3,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2022,quarter,3,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2022,quarter,3,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2022,quarter,3,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2022,quarter,3,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2022,quarter,3,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2022,quarter,3,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2022,quarter,3,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2022,quarter,3,bbl,-2.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2022,quarter,3,bbl,-2.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2022,quarter,3,bbl,-2.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2022,quarter,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2022,quarter,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2022,quarter,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2022,quarter,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2022,quarter,3,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2022,quarter,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2022,quarter,3,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2022,quarter,3,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2022,quarter,3,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2022,quarter,3,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2022,quarter,3,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2022,quarter,3,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2022,quarter,3,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2022,quarter,3,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2022,quarter,3,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2022,quarter,3,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2022,quarter,3,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2022,quarter,3,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2022,quarter,3,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2022,quarter,3,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2022,quarter,3,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2022,quarter,3,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2022,quarter,3,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2022,quarter,3,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2022,quarter,3,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2022,quarter,3,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2022,quarter,3,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2022,quarter,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2022,quarter,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2022,quarter,3,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2022,quarter,3,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2022,quarter,3,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2022,quarter,3,bbl,8.25
+Physical,CRUDE,Physical Premiums,Regional vs Dated Brent,,,2022,quarter,4,bbl,5.5
+Physical,CRUDE,Physical Premiums,US vs Dated Brent,,,2022,quarter,4,bbl,2.7
+Physical,CRUDE,Physical Premiums,WAF vs Dated Brent,,,2022,quarter,4,bbl,0.5
+Physical,HEAVY DISTILLATES,Physical Premiums,FCCU Feed Premium vs Dated Brent,,,2022,quarter,4,bbl,13.0
+Physical,HEAVY DISTILLATES,Physical Premiums,Clarified Oil Premium vs MOPS HSFO180,,,2022,quarter,4,mt,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Term,2022,quarter,4,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Spot,2022,quarter,4,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,North Asia,Prompt,2022,quarter,4,bbl,-0.09999999999999998
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Term,2022,quarter,4,bbl,-0.65
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Spot,2022,quarter,4,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,India,Prompt,2022,quarter,4,bbl,-0.8500000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Term,2022,quarter,4,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Spot,2022,quarter,4,bbl,0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Diesel 10ppm Premiums vs MOPS 10ppm,Singapore,Prompt,2022,quarter,4,bbl,0.6000000000000001
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Term,2022,quarter,4,bbl,-0.4
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Spot,2022,quarter,4,bbl,0.0
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,North Asia,Prompt,2022,quarter,4,bbl,0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Term,2022,quarter,4,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Spot,2022,quarter,4,bbl,-0.9
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,India,Prompt,2022,quarter,4,bbl,-0.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Term,2022,quarter,4,bbl,-0.25
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Spot,2022,quarter,4,bbl,-0.2
+Physical,MIDDLE DISTILLATES,Physical Premiums,Jet Premiums vs MOPS Jet,Singapore,Prompt,2022,quarter,4,bbl,-0.29999999999999993
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Term,2022,quarter,4,bbl,-2.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Spot,2022,quarter,4,bbl,-2.5
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,North Asia,Prompt,2022,quarter,4,bbl,-2.1
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Term,2022,quarter,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Spot,2022,quarter,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,India,Prompt,2022,quarter,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Term,2022,quarter,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Spot,2022,quarter,4,bbl,
+Physical,MIDDLE DISTILLATES,Physical Premiums,DHTU Feed Premiums vs MOPS 10ppm,Singapore,Prompt,2022,quarter,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Term,2022,quarter,4,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Spot,2022,quarter,4,bbl,0.65
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,North Asia,Prompt,2022,quarter,4,bbl,1.15
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Term,2022,quarter,4,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Spot,2022,quarter,4,bbl,-0.35
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,India,Prompt,2022,quarter,4,bbl,0.15000000000000002
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Term,2022,quarter,4,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Spot,2022,quarter,4,bbl,1.1
+Physical,LIGHT DISTILLATES,Physical Premiums,ULP Premiums vs MOPS 92,Singapore,Prompt,2022,quarter,4,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Term,2022,quarter,4,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Spot,2022,quarter,4,bbl,1.6
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,North Asia,Prompt,2022,quarter,4,bbl,2.1
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Term,2022,quarter,4,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Spot,2022,quarter,4,bbl,1.4
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,India,Prompt,2022,quarter,4,bbl,1.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Term,2022,quarter,4,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Spot,2022,quarter,4,bbl,2.9
+Physical,LIGHT DISTILLATES,Physical Premiums,PULP Premiums vs MOPS 95,Singapore,Prompt,2022,quarter,4,bbl,3.4
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Term,2022,quarter,4,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Spot,2022,quarter,4,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,North Asia,Prompt,2022,quarter,4,bbl,8.25
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Term,2022,quarter,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Spot,2022,quarter,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,India,Prompt,2022,quarter,4,bbl,
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Term,2022,quarter,4,bbl,9.0
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Spot,2022,quarter,4,bbl,7.75
+Physical,LIGHT DISTILLATES,Physical Premiums,SPULP Premiums vs MOPS 97,Singapore,Prompt,2022,quarter,4,bbl,8.25
